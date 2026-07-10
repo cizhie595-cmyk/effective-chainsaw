@@ -1,0 +1,4 @@
+interface:
+  display_name: "老板四句筛客"
+  short_description: "帮小红书和闲鱼卖家用最多四句筛掉无效咨询与纯闲聊买家"
+  default_prompt: "使用 $qualify-buyer-in-four，根据我的商品和买家聊天记录，生成下一句筛客回复并判断是否值得继续聊。"
