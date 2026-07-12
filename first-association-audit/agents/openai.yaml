@@ -1,0 +1,4 @@
+interface:
+  display_name: "第一联想体检"
+  short_description: "用开放式无提示调查测量特定场景下账号、品牌、产品或办法的第一提及"
+  default_prompt: "使用 $first-association-audit 设计一份无提示首答调查，或分析我已有的逐条原始回答。"
